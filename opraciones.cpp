@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
-int validar numero (int n){
-    }
 main(){
+   //validar datios de imgreso
+   int n;
+   do{
+        cout<< "ingrese un nuemero:  ";
+        cin>>n;
+    }whilr (n<1
 }

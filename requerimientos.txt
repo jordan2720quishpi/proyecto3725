@@ -1,2 +1,3 @@
 Se necesita crear un rpograma que permita realizar operaciones basicas de un numero
 Nesitamnos crear un procedimiento para validar el numero entre 1 -10 (propuso ing juan clases)
+Necesitamos formar grupos de 4 personas para designar tareas.
